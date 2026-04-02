@@ -1,6 +1,5 @@
 # Geldium Delinquency Risk Analysis
-### Deloitte Australia Data Analytics Job Simulation
-
+# TATA GenAI Powered Data Analytics Job Simulation
 **Prepared by:** Akanksha Garg  
 **Date:** April 2026
 
@@ -24,3 +23,7 @@ End-to-end AI-powered delinquency risk analysis for Geldium Financial Services c
 
 ## Tech Stack
 `Python` `Random Forest` `Pandas` `EDA` `Responsible AI`
+Data Analytics: Python, Pandas, EDA, Data Cleaning.
+Machine Learning: Random Forest, Feature Engineering, Model Evaluation.
+GenAI Strategy: Agentic AI workflow, automated outreach logic.
+Soft Skills: Data Storytelling, Business Writing, Ethical Decision Making.
